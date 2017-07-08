@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "cli-color": "^1.2.0",
-    "lumo-cljs": "1.4.1"
+    "lumo-cljs": "1.6.0"
   }
 }
